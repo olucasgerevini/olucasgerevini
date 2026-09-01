@@ -1,35 +1,79 @@
-# 👨‍💻 Olá! Eu sou Lucas Gerevini
+<h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-🎓 Estudante de Engenharia de Software
-💻 Em transição para TI
-🚀 Buscando estágio...
+<p align="center">
+  <b>Estudante de Engenharia de Software</b> | Desenvolvedor em formação
+</p>
 
-Sobre mim:
+<p align="center">
+  Construindo projetos e transformando problemas reais em soluções através da tecnologia.
+</p>
 
-## 📂 Projetos
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-gerevini-75518a298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-### [🌐 html-css-exercicios](./html-css-exercicios)
-Exercícios práticos de HTML5 — estruturação semântica, favicons, mídias responsivas, links internos/externos e acessibilidade.
-
-### [🐦📊 neo4j-twitter-analytics](./neo4j-twitter-analytics)
-Projeto de banco de dados orientado a grafos: dados reais coletados via Twitter API v2, importados no Neo4j com APOC para modelar relações entre usuários, tweets e hashtags.
-
-### [🧮 logica-portugol](./logica-portugol)
-Algoritmos de lógica de programação escritos em Portugol (VisuAlg) — cálculo de IMC, conversão de moeda, médias, porcentagem, entre outros.
-
-### [📐 diagramas](./diagramas)
-Diagramas de modelagem e fluxo (EdrawMax) usados para planejar a estrutura de sistemas antes da implementação.
-
-### [🐍 python-estudos](./python-estudos)
-Exercícios de lógica em Python — estruturas de repetição, condicionais e manipulação de dados.
-
-## 🛠️ Tecnologias já praticadas
-
-`HTML5` `CSS` `Python` `C#` `Neo4j` `APOC` `Portugol/VisuAlg` `Git & GitHub`
+---
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Engenharia de Software em transição de carreira, vindo de uma trajetória profissional em vendas — trago dessa experiência anterior habilidades de comunicação, resolução de problemas e uso de ferramentas de gestão, que agora aplico junto ao conhecimento técnico que venho construindo.
+Sou estudante de **Engenharia de Software** e estou construindo minha carreira na área de tecnologia.
+
+Minha experiência profissional na área comercial me trouxe habilidades em **comunicação, negociação, resolução de problemas e entendimento de necessidades de negócio**. Hoje, aplico essa experiência no desenvolvimento das minhas competências técnicas.
+
+🎯 **Objetivo:** conquistar minha primeira oportunidade como **estagiário de Desenvolvimento de Software** e continuar evoluindo através de projetos e desafios reais.
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens:** Python • C#
+
+**Web:** HTML5 • CSS3
+
+**Banco de Dados:** MySQL • Neo4j • Cypher
+
+**Ferramentas:** Git • GitHub
+
+---
+
+## 🚀 Projeto em destaque
+
+### [Neo4j Twitter Analytics](https://github.com/olucasgerevini/portfolio-estudos/tree/main/neo4j-twitter-analytics)
+
+Projeto de análise e modelagem de dados utilizando **Twitter API v2 + Neo4j + Cypher + APOC**.
+
+O projeto explora relacionamentos entre usuários, tweets, retweets, respostas, citações e hashtags em um banco de dados orientado a grafos.
+
+**Tecnologias:** Python • API • Neo4j • Cypher • APOC
+
+[🔎 Ver projeto](https://github.com/olucasgerevini/portfolio-estudos/tree/main/neo4j-twitter-analytics)
+
+---
+
+## 📂 Outros projetos
+
+### [portfolio-estudos](https://github.com/olucasgerevini/portfolio-estudos)
+
+Repositório onde organizo meus estudos e projetos desenvolvidos durante a graduação.
+
+| Projeto                                                                                                  | Foco                  |
+| -------------------------------------------------------------------------------------------------------- | --------------------- |
+| [HTML/CSS Exercícios](https://github.com/olucasgerevini/portfolio-estudos/tree/main/html-css-exercicios) | Desenvolvimento Web   |
+| [Lógica Portugol](https://github.com/olucasgerevini/portfolio-estudos/tree/main/logica-portugol)         | Lógica de Programação |
+| [Diagramas](https://github.com/olucasgerevini/portfolio-estudos/tree/main/diagramas)                     | Modelagem de Sistemas |
+| [Python Estudos](https://github.com/olucasgerevini/portfolio-estudos/tree/main/python-estudos)           | Programação em Python |
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades de estágio, projetos e conexões na área de tecnologia.
+
+<a href="https://www.linkedin.com/in/lucas-gerevini-75518a298/">
+  LinkedIn
+</a>
 
 - LinkedIn: [lucas-gerevini](https://www.linkedin.com/in/lucas-gerevini-75518a298/)
 - GitHub: [@olucasgerevini](https://github.com/olucasgerevini)
